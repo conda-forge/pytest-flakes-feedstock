@@ -1,6 +1,6 @@
 {% set name = "pytest-flakes" %}
-{% set version = "1.0.1" %}
-{% set sha256 = "9c2271654294020e134624020a2144cb93b7334809d70fb3f470cd31ec788a3a" %}
+{% set version = "2.0.0" %}
+{% set sha256 = "3e880927fd2a77d31715eaab3876196e76d779726c9c24fe32ee5bab23281f82" %}
 
 package:
   name: {{ name|lower }}
