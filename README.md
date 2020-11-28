@@ -5,11 +5,9 @@ Home: https://github.com/fschulze/pytest-flakes
 
 Package license: MIT
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pytest-flakes-feedstock/blob/master/LICENSE.txt)
 
 Summary: pytest plugin to check source code with pyflakes
-
-
 
 Current build status
 ====================
