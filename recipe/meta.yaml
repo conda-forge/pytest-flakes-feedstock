@@ -19,10 +19,10 @@ build:
 requirements:
   host:
     - pip
-    - python
+    - python >=3.5
     - setuptools
   run:
-    - python
+    - python >=3.5
     - pytest-cache
     - pytest >=2.4.0
     - pyflakes
